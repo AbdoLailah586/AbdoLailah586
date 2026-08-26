@@ -124,7 +124,6 @@ I am particularly interested in AI systems that don't blindly generate answers, 
   <img src="https://img.shields.io/badge/5.%20Safe_Execution-1B1035?style=flat-square&color=4F46E5" /> ⬅️ 
   <img src="https://img.shields.io/badge/4.%20Validation-1B1035?style=flat-square&color=6366F1" />
 </div>
-> Make AI reason, retrieve, execute, validate, and only then respond.
 <br>
 <hr>
 <br>
@@ -133,8 +132,8 @@ I am particularly interested in AI systems that don't blindly generate answers, 
 ### LANGUAGES
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,bash"/>
 <br><br>
-### BACKEND
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis"/>
+### BACKEND & APIS
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,supabase"/>
 <br><br>
 ### FRONTEND
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
@@ -142,13 +141,28 @@ I am particularly interested in AI systems that don't blindly generate answers, 
 ### DATABASES
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/>
 <br><br>
-### DEVOPS
+### DEVOPS & TOOLS
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,nginx"/>
 </div>
 <br>
 <hr>
 <br>
-## 06 // FEATURED PROJECTS
+## 06 // MILESTONES & EXPERIENCE
+<div align="center">
+### 🏆 AWARDS & COMPETITIONS
+**Huawei Developer Competition 2025**
+*Northern Africa Finals Qualifier • Knowledge City, Egypt* 
+<br>
+### 💼 EXPERIENCE & TRAINING
+**DevOps Engineering Intern** @ *CodeAlpha*
+**Generative AI Track** @ *Phronesis*
+**Cloud Computing (HCIA)** @ *Huawei ICT Academy - Mansoura University*
+**AI Agent Builder** @ *AI MicroMind - Creativa Benha Hub*
+</div>
+<br>
+<hr>
+<br>
+## 07 // FEATURED PROJECTS
 <br>
 ### 🤖 WHATSAPP PRO CRM
 **Autonomous Agentic CRM & Voice Engine**
@@ -160,15 +174,15 @@ An intelligent omnichannel CRM powered by autonomous LLM workflows, supporting r
 Automates the machine learning lifecycle for data cleaning, feature engineering, and model deployment. Built with robust CI/CD pipelines using GitHub Actions.
 `Python` `FastAPI` `React` `MLflow` `Dask` `Docker` `Kubernetes` `Optuna`
 <br>
+### 🎓 TELEARN
+**Full-Stack Educational Ecosystem**
+A modern learning platform featuring comprehensive instructor and student dashboards with dynamic routing and backend services.
+`Next.js` `React` `Prisma` `PostgreSQL` `Supabase` `Resend` `Tailwind CSS` `Vercel`
+<br>
 ### ⚙️ DEVOPS INFRASTRUCTURE SUITE
 **Distributed Jenkins + CI/CD Architecture**
 Production-oriented infrastructure with distributed Jenkins agents, JCasC configuration, and automated multi-stage pipelines.
 `Jenkins` `JCasC` `Docker` `Docker Compose` `Gradle` `GitHub Actions` `Nginx` `Linux`
-<br>
-### 🎓 TELEARN
-**Full-Stack Educational Ecosystem**
-A modern learning platform featuring comprehensive instructor and student dashboards.
-`Next.js` `React` `Prisma` `PostgreSQL` `Tailwind CSS` `Vercel` `Neon`
 <br>
 ### 📊 WHATSAPP SPARK NLP
 **Distributed Big Data Text Classification**
