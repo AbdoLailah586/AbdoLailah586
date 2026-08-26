@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/FULL--STACK-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DEVOPS-6B7280?style=for-the-badge"/>
 </div>
----
+<br>
 <div align="center">
-### `╭─────────────── SYSTEM ONLINE ───────────────╮`
+### ╭─────────────── SYSTEM ONLINE ───────────────╮
 <img src="https://img.shields.io/badge/●%20AI%20ENGINE-ONLINE-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/●%20BACKEND-ONLINE-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/●%20DEVOPS-ONLINE-8B5CF6?style=flat-square"/>
@@ -25,8 +25,10 @@
 <img src="https://img.shields.io/badge/●%20BUILDING-ACTIVE-C4B5FD?style=flat-square"/>
 `[██████████████████████████████████████████████████] 100%`
 </div>
----
-# `01 // WHO AM I?`
+<br>
+<hr>
+<br>
+## 01 // WHO AM I?
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&lines=I+build+systems%2C+not+just+scripts.;I+turn+ideas+into+production+software.;I+make+AI+reason%2C+act%2C+validate+%26+improve." />
 </div>
@@ -59,8 +61,10 @@ My work sits at the intersection of modern architectures:
 </div>
 I enjoy taking a system from:
 **Idea → Architecture → Implementation → Testing → Deployment → Monitoring**
----
-# `02 // QUICK TELEMETRY`
+<br>
+<hr>
+<br>
+## 02 // QUICK TELEMETRY
 <div align="center">
 
 | `10+` | `200+` | `7+` | `3.67` |
@@ -74,8 +78,10 @@ I enjoy taking a system from:
 <img src="https://img.shields.io/badge/MODE-BUILDING-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LOCATION-MANSOURA%2C%20EGYPT-4B5563?style=for-the-badge"/>
 </div>
----
-# `03 // AI CORE`
+<br>
+<hr>
+<br>
+## 03 // AI CORE
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 <br><br>
@@ -86,7 +92,7 @@ I enjoy taking a system from:
 <img src="https://img.shields.io/badge/ReAct-A78BFA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM%20Apps-6D28D9?style=for-the-badge"/>
 </div>
-### `Agentic Architecture Flow`
+### Agentic Architecture Flow
 <div align="center">
   <img src="https://img.shields.io/badge/USER%20REQUEST-7C3AED?style=for-the-badge" /> ⬇️
   <br>
@@ -102,8 +108,10 @@ I enjoy taking a system from:
   <br>
   <img src="https://img.shields.io/badge/VALIDATE%20%26%20REFLECT-22C55E?style=for-the-badge" />
 </div>
----
-# `04 // ZERO-HALLUCINATION SYSTEMS`
+<br>
+<hr>
+<br>
+## 04 // ZERO-HALLUCINATION SYSTEMS
 I am particularly interested in AI systems that don't blindly generate answers, but follow strict pipelines:
 <div align="center">
   <img src="https://img.shields.io/badge/1.%20User_Query-1B1035?style=flat-square&color=7C3AED" /> ➡️ 
@@ -117,57 +125,56 @@ I am particularly interested in AI systems that don't blindly generate answers, 
   <img src="https://img.shields.io/badge/4.%20Validation-1B1035?style=flat-square&color=6366F1" />
 </div>
 > Make AI reason, retrieve, execute, validate, and only then respond.
----
-# `05 // TECH STACK`
+<br>
+<hr>
+<br>
+## 05 // TECH STACK
 <div align="center">
-### `LANGUAGES`
+### LANGUAGES
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,bash"/>
 <br><br>
-### `BACKEND`
+### BACKEND
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis"/>
 <br><br>
-### `FRONTEND`
+### FRONTEND
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
 <br><br>
-### `DATABASES`
+### DATABASES
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/>
 <br><br>
-### `DEVOPS`
+### DEVOPS
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,nginx"/>
 </div>
----
-# `06 // FEATURED PROJECTS`
----
-## `01 / WHATSAPP PRO CRM`
-### 🤖 Autonomous Agentic CRM & Voice Engine
+<br>
+<hr>
+<br>
+## 06 // FEATURED PROJECTS
+<br>
+### 🤖 WHATSAPP PRO CRM
+**Autonomous Agentic CRM & Voice Engine**
 An intelligent omnichannel CRM powered by autonomous LLM workflows, supporting real-time communication, voice generation, and automated handling.
 `Node.js` `Baileys` `MicroMind` `OpenAI TTS` `FFmpeg` `Neon PostgreSQL` `Socket.io`
----
-## `02 / LUMEN`
-### 🧠 Enterprise AutoML & MLOps Platform
-Automates the machine learning lifecycle from data ingestion to deployment, scaling with Dask and tracking through MLflow and Optuna.
-`Python` `FastAPI` `React` `Vite` `SQLite` `FAISS` `XGBoost` `LightGBM` `Optuna` `MLflow` `Dask` `Docker` `Kubernetes`
----
-## `03 / DEVOPS INFRASTRUCTURE SUITE`
-### ⚙️ Distributed Jenkins + CI/CD Architecture
+<br>
+### 🧠 LUMEN
+**Enterprise AutoML & MLOps Platform**
+Automates the machine learning lifecycle for data cleaning, feature engineering, and model deployment. Built with robust CI/CD pipelines using GitHub Actions.
+`Python` `FastAPI` `React` `MLflow` `Dask` `Docker` `Kubernetes` `Optuna`
+<br>
+### ⚙️ DEVOPS INFRASTRUCTURE SUITE
+**Distributed Jenkins + CI/CD Architecture**
 Production-oriented infrastructure with distributed Jenkins agents, JCasC configuration, and automated multi-stage pipelines.
 `Jenkins` `JCasC` `Docker` `Docker Compose` `Gradle` `GitHub Actions` `Nginx` `Linux`
----
-## `04 / TELEARN`
-### 🎓 Full-Stack Educational Ecosystem
-A modern learning platform connecting students and instructors with dynamic dashboards and robust role-based routing.
-`Next.js` `React` `Prisma` `PostgreSQL` `Tailwind CSS`
----
-## `05 / WHATSAPP SPARK NLP`
-### 📊 Distributed Big Data Text Classification
-Processing and classifying chat logs at scale utilizing PySpark, Spark MLlib, and TF-IDF pipelines.
+<br>
+### 🎓 TELEARN
+**Full-Stack Educational Ecosystem**
+A modern learning platform featuring comprehensive instructor and student dashboards.
+`Next.js` `React` `Prisma` `PostgreSQL` `Tailwind CSS` `Vercel` `Neon`
+<br>
+### 📊 WHATSAPP SPARK NLP
+**Distributed Big Data Text Classification**
+Processing and classifying chat logs at scale utilizing big-data pipelines for natural language processing.
 `PySpark` `Spark MLlib` `TF-IDF` `Random Forest` `Flask` `React`
----
-## `06 / RESEARCH KNOWLEDGE GRAPH`
-### 🔬 Graph-Based Semantic Discovery
-Interactive research network connecting papers, authors, citations, and concepts dynamically.
-`Python` `Flask` `SPARQL` `D3.js` `Cytoscape.js` `JSON`
----
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3AED,35:3B1D68,70:1B1035,100:09090F&height=120&section=footer" width="100%"/>
 </div>
